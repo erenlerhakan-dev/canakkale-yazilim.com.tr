@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/ozel-web-gelistirme.php"
  }
 }
 </script>

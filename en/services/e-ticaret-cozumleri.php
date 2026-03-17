@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/e-ticaret-cozumleri.php"
  }
 }
 </script>

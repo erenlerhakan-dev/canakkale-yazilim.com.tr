@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 <meta property="og:description" content="Çanakkale Web Development çözümleri ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırın ve doğru seçimi yapın.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
-<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırarak işletmeniz için en uygun çözümü belirleyin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
+<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp",
+"image": "https://canakkale-webyazilim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
 }
 }
 </script>

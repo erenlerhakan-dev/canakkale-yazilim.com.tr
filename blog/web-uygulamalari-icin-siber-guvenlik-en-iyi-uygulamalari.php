@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web uygulamalarınız için siber güvenlik önlemlerini öğrenin ve uygulayın.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
-<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
+<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp",
+"image": "https://canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Yazılım",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
 }
 }
 </script>

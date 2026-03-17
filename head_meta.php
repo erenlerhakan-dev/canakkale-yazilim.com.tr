@@ -15,10 +15,10 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/nice-select.css">
 
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
 <meta name="google-site-verification" content="" />
 <meta name="msvalidate.01" content="" />
@@ -29,17 +29,17 @@
 <meta name="p:domain_verify" content=""/>
 <meta name="wot-verification" content=""/>
 
-<meta name="author" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
-<meta name="publisher" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
-<meta name="designer" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
+<meta name="author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
+<meta name="publisher" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
+<meta name="designer" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
 <meta name="distribution" content="Global">
 <meta name="google" content="notranslate" />
 <meta name="googlebot" content="index, follow" />
 <meta name="robots" content="index, follow">
-<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
+<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
 <meta name="rating" content="General">
 <meta name="Revisit-after" content="1 Day">
-<meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr" />
+<meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr" />
 <meta name="content-language" content="tr-TR" />
 
 <link rel="canonical" href="<?php echo $_SERVER['HTTP_REFERER']; ?>">

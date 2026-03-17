@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/en/services/server-guvenlik-bakim.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/server-guvenlik-bakim.php"
  }
 }
 </script>

@@ -111,35 +111,35 @@
 <nav class="navigation-menu navigation-menu--text_white">
 
 <ul>
-<li><a href="https://canakkale-webtasarim.com.tr/en/">Home</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/about-us.php">About Us</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/">Home</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/about-us.php">About Us</a></li>
 
 <li class="has-children has-children--multilevel-submenu">
-<a href="https://canakkale-webtasarim.com.tr/en/services.php">Services</a>
+<a href="https://canakkale-webyazilim.com.tr/en/services.php">Services</a>
 <ul class="submenu">
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"><span>Custom Web Development</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php"><span>CRM Systems</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/erp-cozumleri.php"><span>ERP Solutions</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php"><span>E-commerce Solutions</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/mobil-uygulamalar.php"><span>Mobile Applications</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/rezervasyon-sistemleri.php"><span>Reservation Systems</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-yazilim-gelistirme.php"><span>Custom Software Development</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Solutions</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/api-gelistirme.php"><span>API Development</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php"><span>Server Security and Maintenance</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/yazilim-performans-optimizasyonu.php"><span>Software Performance Optimization</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/teknik-danismanlik.php"><span>Technical Consulting</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/ozel-web-gelistirme.php"><span>Custom Web Development</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/crm-sistemleri.php"><span>CRM Systems</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/erp-cozumleri.php"><span>ERP Solutions</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/e-ticaret-cozumleri.php"><span>E-commerce Solutions</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/mobil-uygulamalar.php"><span>Mobile Applications</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/rezervasyon-sistemleri.php"><span>Reservation Systems</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/ozel-yazilim-gelistirme.php"><span>Custom Software Development</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Solutions</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/api-gelistirme.php"><span>API Development</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php"><span>Server Security and Maintenance</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/yazilim-performans-optimizasyonu.php"><span>Software Performance Optimization</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/teknik-danismanlik.php"><span>Technical Consulting</span></a></li>
 </ul>
 </li>
 
-<li><a href="https://canakkale-webtasarim.com.tr/en/blog/index.php">Technologies</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/contact-us.php">Contact Us</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/blog/index.php">Technologies</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/contact-us.php">Contact Us</a></li>
 
 <li class="has-children has-children--multilevel-submenu">
 <a href="#"><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe h-4 w-4"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg> TR</span></a>
 <ul class="submenu">
-<li><a href="https://canakkale-webtasarim.com.tr/en/"><span>English</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/"><span>Türkçe</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/"><span>English</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/"><span>Türkçe</span></a></li>
 </ul>
 </li>
 
