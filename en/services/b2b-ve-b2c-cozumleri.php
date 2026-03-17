@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="tr" dir="ltr">
+<html class="no-js" lang="en" dir="ltr">
 
 <head>
 <title>B2B ve B2C Çözümleri | Dijital İş Platformları ve Entegrasyon Servicesi</title>

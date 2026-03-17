@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="tr" dir="ltr">
+<html class="no-js" lang="en" dir="ltr">
 
 <head>
 <title>Reservation Systems | Online Rezervasyon Yazılımı ve Booking Çözümleri</title>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="tr" dir="ltr">
+<html class="no-js" lang="en" dir="ltr">
 
 <head>
 <title>CRM Systems | Müşteri İlişkileri Yönetimi Yazılım Çözümleri</title>
