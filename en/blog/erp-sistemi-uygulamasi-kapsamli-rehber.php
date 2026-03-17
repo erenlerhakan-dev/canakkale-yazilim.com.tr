@@ -8,7 +8,7 @@
 <meta name="description" content="ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale Web Development çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.">
 
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
-<meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
+<meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında Detaillı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
 <meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
@@ -131,7 +131,7 @@ ERP sistemi uygulamak için izlenen adımlar genellikle şunlardır:
 <h4>5. Başarılı ERP Uygulaması İçin İpuçları</h4>
 
 <ul>
-<li>İş süreçlerinizi detaylı analiz edin ve gereksiz adımları azaltın.</li>
+<li>İş süreçlerinizi Detaillı analiz edin ve gereksiz adımları azaltın.</li>
 <li>Çalışan eğitimini ön planda tutun.</li>
 <li>Veri göçü ve entegrasyonu dikkatle yönetin.</li>
 <li>ERP sistemini kademeli olarak devreye alın.</li>

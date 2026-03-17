@@ -102,7 +102,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> Servicesi sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
 
-<div class="sub-heading">Technical Consulting Servicesi sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için detaylı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<div class="sub-heading">Technical Consulting Servicesi sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için Detaillı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
 </div>

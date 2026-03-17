@@ -102,7 +102,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> Software Performance Optimization</span> Servicesi sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
 
-<div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için detaylı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
+<div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için Detaillı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
 </div>
 </div>
 </div>

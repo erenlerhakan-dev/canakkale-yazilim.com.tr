@@ -102,7 +102,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API Development Servicesi</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
 
-<div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için detaylı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
+<div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için Detaillı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
 </div>

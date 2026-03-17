@@ -107,7 +107,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> Servicesi sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
 
-<div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
+<div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için Detaillı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>
 </div>
 </div>

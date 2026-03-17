@@ -3,7 +3,7 @@
 
 <head>
 <title>Custom Software Development | İşletmelere Özel Yazılım Çözümleri</title>
-<meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında detaylı bilgi alın.">
+<meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında Detaillı bilgi alın.">
 <meta name="keywords" content="Custom Software Development, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -107,7 +107,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme Servicesi</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
 
-<div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaylı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
+<div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaillı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
 </div>
 </div>
 </div>

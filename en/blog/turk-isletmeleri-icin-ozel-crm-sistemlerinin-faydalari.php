@@ -139,7 +139,7 @@ Bu otomasyon sayesinde çalışanlar zamanlarını daha stratejik işlere ayıra
 <h2>Veri Analizi ve Raporlama</h2>
 
 <p>
-CRM Systems işletmelere detaylı raporlar sunar. Satış performansı, müşteri davranışları ve pazarlama kampanyalarının başarısı analiz edilebilir.
+CRM Systems işletmelere Detaillı raporlar sunar. Satış performansı, müşteri davranışları ve pazarlama kampanyalarının başarısı analiz edilebilir.
 </p>
 
 <p>

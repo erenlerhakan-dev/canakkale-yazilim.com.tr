@@ -5,7 +5,7 @@
 
 <title>2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım</title>
 
-<meta name="description" content="2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.">
+<meta name="description" content="2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında Detaillı bilgiler.">
 
 <meta property="og:title" content="2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım">
 <meta property="og:description" content="2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.">
@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="2026’ta Modern Web Geliştirme Trendleri">
-<meta name="twitter:description" content="Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında detaylı rehber.">
+<meta name="twitter:description" content="Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında Detaillı rehber.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp">
 
 <link rel="canonical" href="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">

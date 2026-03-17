@@ -102,7 +102,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">İşletmeler için güçlü <span class="text-color-primary"> B2B ve B2C dijital ticaret çözümleri</span> geliştiriyoruz. Modern yazılım altyapısı sayesinde hem işletmeler arası ticaret süreçlerini hem de son kullanıcıya satış yapan platformları optimize ediyoruz.</h5>
 
-<div class="sub-heading">Gelişmiş e-ticaret sistemleri, entegrasyon çözümleri ve dijital satış platformları ile işletmenizin online büyümesini destekliyoruz. Projeniz için detaylı analiz ve danışmanlık hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<div class="sub-heading">Gelişmiş e-ticaret sistemleri, entegrasyon çözümleri ve dijital satış platformları ile işletmenizin online büyümesini destekliyoruz. Projeniz için Detaillı analiz ve danışmanlık hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
 </div>
