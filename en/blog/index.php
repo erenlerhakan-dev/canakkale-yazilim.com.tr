@@ -7,7 +7,7 @@
 
 <meta name="description" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">

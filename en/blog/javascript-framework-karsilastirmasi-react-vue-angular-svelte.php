@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

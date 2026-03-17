@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web tasarım Servicesi ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

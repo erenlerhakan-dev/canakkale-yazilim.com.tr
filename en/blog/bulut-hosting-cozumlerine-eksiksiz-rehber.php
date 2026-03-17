@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile işiniz için en uygun bulut hosting çözümünü seçin ve performansı artırın.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

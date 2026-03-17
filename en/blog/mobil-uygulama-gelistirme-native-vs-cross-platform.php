@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırarak işletmeniz için en uygun çözümü belirleyin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

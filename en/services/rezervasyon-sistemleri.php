@@ -6,7 +6,7 @@
 <meta name="description" content="Reservation Systems ile otel, tur, restoran ve hizmet sektörleri için online booking çözümleri geliştirin. Modern ve kullanıcı dostu rezervasyon yazılımı.">
 <meta name="keywords" content="rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

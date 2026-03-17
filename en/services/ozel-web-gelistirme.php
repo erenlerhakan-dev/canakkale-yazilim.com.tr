@@ -6,7 +6,7 @@
 <meta name="description" content="Custom Web Development Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
 <meta name="keywords" content="Custom Web Development, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

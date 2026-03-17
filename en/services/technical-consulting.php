@@ -6,7 +6,7 @@
 <meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel Technical Consulting Servicesi. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
 <meta name="keywords" content="Technical Consulting, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık Servicesi">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

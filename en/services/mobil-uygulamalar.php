@@ -6,7 +6,7 @@
 <meta name="description" content="Mobil uygulama geliştirme Servicesi ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
 <meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

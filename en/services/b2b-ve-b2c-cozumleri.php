@@ -6,7 +6,7 @@
 <meta name="description" content="B2B ve B2C çözümleri ile işletmenizi dijital dünyada büyütün. Kurumsal yazılım, e-ticaret ve entegrasyon sistemleri ile iş süreçlerinizi optimize edin.">
 <meta name="keywords" content="B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

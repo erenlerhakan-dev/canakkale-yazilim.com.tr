@@ -6,7 +6,7 @@
 <meta name="description" content="ERP Solutions ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
 <meta name="keywords" content="ERP Solutions, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

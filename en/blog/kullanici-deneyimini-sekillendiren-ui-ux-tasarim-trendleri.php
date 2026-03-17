@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

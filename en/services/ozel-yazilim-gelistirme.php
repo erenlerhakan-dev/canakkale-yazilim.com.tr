@@ -6,7 +6,7 @@
 <meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında Detaillı bilgi alın.">
 <meta name="keywords" content="Custom Software Development, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

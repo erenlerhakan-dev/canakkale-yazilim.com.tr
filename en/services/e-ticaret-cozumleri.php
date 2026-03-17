@@ -6,7 +6,7 @@
 <meta name="description" content="E-commerce Solutionsile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
 <meta name="keywords" content="E-commerce Solutions, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

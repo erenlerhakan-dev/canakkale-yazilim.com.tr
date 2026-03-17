@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

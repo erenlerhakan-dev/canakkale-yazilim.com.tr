@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

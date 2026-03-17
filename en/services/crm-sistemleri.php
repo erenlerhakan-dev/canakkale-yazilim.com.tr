@@ -6,7 +6,7 @@
 <meta name="description" content="CRM Systems ile müşteri ilişkilerinizi yönetin, satış süreçlerinizi optimize edin ve işletmenizin verimliliğini artırın. Modern CRM yazılım çözümleri hakkında bilgi alın.">
 <meta name="keywords" content="CRM Systems, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

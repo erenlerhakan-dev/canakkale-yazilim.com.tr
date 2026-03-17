@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

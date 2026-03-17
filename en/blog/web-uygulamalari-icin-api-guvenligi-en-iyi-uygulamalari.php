@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development çözümleri ile web uygulamalarınız için API güvenliğini artırın ve veri sızıntılarını önleyin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

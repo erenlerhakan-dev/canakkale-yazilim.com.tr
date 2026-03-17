@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development çözümleri ile Django kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

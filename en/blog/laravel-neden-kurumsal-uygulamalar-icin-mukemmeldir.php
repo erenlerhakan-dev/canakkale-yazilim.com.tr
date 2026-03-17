@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

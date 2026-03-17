@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile 2026 SEO trendlerini uygulayarak web sitenizin görünürlüğünü artırın.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

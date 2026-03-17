@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

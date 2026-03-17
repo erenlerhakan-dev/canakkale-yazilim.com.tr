@@ -6,7 +6,7 @@
 <meta name="description" content="API Development Servicesi ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
 <meta name="keywords" content="API Development, REST API Development, web API Development, yazılım entegrasyonu, API servisleri, backend API Development">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

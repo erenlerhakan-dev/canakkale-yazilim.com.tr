@@ -22,7 +22,7 @@
 
 <link rel="canonical" href="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

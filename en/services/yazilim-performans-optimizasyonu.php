@@ -6,7 +6,7 @@
 <meta name="description" content="Software Performance Optimization ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
 <meta name="keywords" content="Software Performance Optimization, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

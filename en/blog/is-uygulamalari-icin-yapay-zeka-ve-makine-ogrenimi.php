@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

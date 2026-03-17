@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="E-ticaret dünyasında başarılı olmak isteyen küçük işletmeler için pratik stratejiler ve ipuçları.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

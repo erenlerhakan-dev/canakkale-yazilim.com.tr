@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

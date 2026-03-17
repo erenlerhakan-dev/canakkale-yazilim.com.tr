@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

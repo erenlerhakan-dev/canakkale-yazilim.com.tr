@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

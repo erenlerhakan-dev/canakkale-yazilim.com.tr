@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="React ve Angular karşılaştırması: performans, kullanım kolaylığı ve proje ihtiyaçlarına göre seçim rehberi.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
 
-<?php include_once('../../head_meta.php'); ?>
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
