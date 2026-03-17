@@ -4,8 +4,8 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="section-title-wrap text-center section-space--mb_40">
-<h6 class="section-sub-title mb-20">Servicesimiz</h6>
-<h3 class="heading"><span class="text-color-primary"> İş ihtiyaçlarınıza</span> göre uyarlanmış kapsamlı yazılım geliştirme ve bilişim çözümleri</h3>
+<h6 class="section-sub-title mb-20">Services</h6>
+<h3 class="heading"><span class="text-color-primary"> Comprehensive software development and IT solutions</span> tailored to your business needs.</h3>
 </div>
 </div>
 </div>
