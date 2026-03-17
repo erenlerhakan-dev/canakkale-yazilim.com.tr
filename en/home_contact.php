@@ -78,7 +78,7 @@
 <div class="contact-info-three text-left">
 <h6 class="heading font-weight--reguler">Contact us !</h6>
 <h3 class="call-us"><a href="tel:+905347922531">(+90) 534 792 25 31</a></h3>
-<div class="text">İhtiyaçlarınıza en uygun çözümü bulmak için bizimle iş birliğine başlayın.</div>
+<div class="text">Start collaborating with us to find the solution that best suits your needs..</div>
 <div class="location-button mt-20">
 <a href="https:/share.google/5qKjOnp1q0aPwJL0K" class="location-text-button" target="_blank"><span class="button-icon"></span> <span class="button-text">Our Google Business Listing</span></a>
 </div>

@@ -2,20 +2,20 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<title>Canakkale Web Development - Professional Web Development and Software Solutions</title>
+<meta name="description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">
-<meta property="og:title" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<meta property="og:title" content="Canakkale Web Development - Professional Web Development and Software Solutions">
+<meta property="og:description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 <meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Çanakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<meta name="twitter:title" content="Canakkale Web Development - Professional Web Development and Software Solutions">
+<meta name="twitter:description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Çanakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -38,10 +38,10 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Teknoloji ve Yaratıcılığın Buluşma Noktası</h3>
+<h3 class="heading mb-20">The Meeting Point of Technology and Creativity</h3>
 </div>
-<h6 class="mb-20">Çanakkale Web Development olarak, sadece kod yazmıyor; işletmenizin dijital kimliğini inşa ediyoruz. Modern teknolojileri, kullanıcı dostu tasarımlarla birleştirerek, markanızı internet dünyasında bir adım öne çıkarıyoruz.</h6>
-<h6 class="mb-20">Yerel bir ajans olmanın samimiyetini, global bir teknoloji şirketinin vizyonuyla birleştiriyoruz. Çanakkale'deki ofisimizde, hayallerinizdeki dijital projeyi hayata geçirmek için sabırsızlanıyoruz.</h6>
+<h6 class="mb-20">At Çanakkale Web Development, we don't just write code; we build your business's digital identity. By combining modern technologies with user-friendly designs, we help your brand stand out in the online world.</h6>
+<h6 class="mb-20">We combine the sincerity of being a local agency with the vision of a global technology company. We are eager to bring your dream digital project to life in our Çanakkale office.</h6>
 </div>
 </div>
 
@@ -54,7 +54,7 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="section-title-wrap text-center section-space--mb_40">
-<h6 class="section-sub-title mb-20">İşinizi Geleceğe Taşıyan <span class="text-primary">Dijital Çözümler</span></h6>
+<h6 class="section-sub-title mb-20">Digital Solutions <span class="text-primary">That Take Your Business into the Future</span></h6>
 <h3 class="heading"></h3>
 </div>
 </div>
@@ -74,8 +74,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Custom Web Development</h5>
-<div class="text">React, Angular, Laravel ve Django gibi modern teknolojileri kullanarak özel iş ihtiyaçlarınıza göre özel web uygulamaları oluşturuyoruz.</div>
-<div class="feature-btn"><a href="/en/services/ozel-web-gelistirme.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">We create custom web applications tailored to your specific business needs using modern technologies such as React, Angular, Laravel, and Django..</div>
+<div class="feature-btn"><a href="/en/services/ozel-web-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -89,8 +89,8 @@
 </div>
 <div class="content">
 <h5 class="heading">CRM Systems</h5>
-<div class="text">Müşteri etkileşimlerinizi iyileştirmek ve satış verimliliğini artırmak için tasarlanmış özel Müşteri İlişkileri Yönetimi sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/crm-sistemleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Custom Customer Relationship Management (CRM) systems designed to improve customer interactions and increase sales efficiency.</div>
+<div class="feature-btn"><a href="/en/services/crm-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -104,8 +104,8 @@
 </div>
 <div class="content">
 <h5 class="heading">ERP Solutions</h5>
-<div class="text">İşletme operasyonlarınızın tüm yönlerini tek bir birleşik platforma entegre eden Kurumsal Kaynak Planlama sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/erp-cozumleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Enterprise Resource Planning systems integrate all aspects of business operations into a single, unified platform.</div>
+<div class="feature-btn"><a href="/en/services/erp-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -119,8 +119,8 @@
 </div>
 <div class="content">
 <h5 class="heading">E-commerce Solutions</h5>
-<div class="text">Güvenli ödeme entegrasyonu, envanter yönetimi ve kullanıcı dostu alışveriş deneyimleri ile tam özellikli online mağazalar.</div>
-<div class="feature-btn"><a href="/en/services/e-ticaret-cozumleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Fully featured online stores with secure payment integration, inventory management, and user-friendly shopping experiences.</div>
+<div class="feature-btn"><a href="/en/services/e-ticaret-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -134,8 +134,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Mobile Applications</h5>
-<div class="text">Olağanüstü kullanıcı deneyimleri sunan iOS ve Android için native ve cross-platform Mobile Applications.</div>
-<div class="feature-btn"><a href="/en/services/mobil-uygulamalar.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Native and cross-platform mobile applications for iOS and Android that deliver exceptional user experiences.</div>
+<div class="feature-btn"><a href="/en/services/mobil-uygulamalar.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -149,8 +149,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Reservation Systems</h5>
-<div class="text">Oteller, restoranlar, Services ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Custom booking and appointment systems for hotels, restaurants, services, and event management.</div>
+<div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -164,8 +164,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Custom Software Development</h5>
-<div class="text">Benzersiz iş zorluklarınızı ve gereksinimlerinizi ele almak için sıfırdan oluşturulmuş özel yazılım çözümleri.</div>
-<div class="feature-btn"><a href="/en/services/ozel-yazilim-gelistirme.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Custom software solutions built from the ground up to address your unique business challenges and requirements.</div>
+<div class="feature-btn"><a href="/en/services/ozel-yazilim-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -179,8 +179,8 @@
 </div>
 <div class="content">
 <h5 class="heading">B2B & B2C Solutions</h5>
-<div class="text">Gelişmiş özelliklerle işletmeden işletmeye ve işletmeden tüketiciye işlemler için özel platformlar.</div>
-<div class="feature-btn"><a href="/en/services/b2b-ve-b2c-cozumleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Advanced platforms for business-to-business and business-to-consumer transactions.</div>
+<div class="feature-btn"><a href="/en/services/b2b-ve-b2c-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -194,8 +194,8 @@
 </div>
 <div class="content">
 <h5 class="heading">API Development</h5>
-<div class="text">Farklı sistemler ve uygulamalar arasında sorunsuz entegrasyon sağlayan RESTful API'ler ve mikroservisler.</div>
-<div class="feature-btn"><a href="/en/services/api-gelistirme.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">RESTful APIs and microservices that enable seamless integration between different systems and applications.</div>
+<div class="feature-btn"><a href="/en/services/api-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -209,8 +209,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Server Security and Maintenance</h5>
-<div class="text">Uygulamalarınızın sorunsuz çalışmasını sağlamak için kapsamlı güvenlik denetimleri, düzenli güncellemeler ve sürekli bakım.</div>
-<div class="feature-btn"><a href="/en/services/sunucu-guvenligi-ve-bakimi.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Comprehensive security audits, regular updates, and ongoing maintenance to ensure your applications run smoothly.</div>
+<div class="feature-btn"><a href="/en/services/sunucu-guvenligi-ve-bakimi.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -224,8 +224,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Software Performance Optimization</h5>
-<div class="text">Yazılım  performans optimizasyonu, kod yeniden düzenleme ve altyapı iyileştirmeleriyle mevcut uygulamalarınızı geliştirin.</div>
-<div class="feature-btn"><a href="/en/services/yazilim-performans-optimizasyonu.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Enhance your existing applications with software performance optimization, code refactoring, and infrastructure improvements.</div>
+<div class="feature-btn"><a href="/en/services/yazilim-performans-optimizasyonu.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -239,8 +239,8 @@
 </div>
 <div class="content">
 <h5 class="heading">Technical Consulting</h5>
-<div class="text">Projeleriniz için teknoloji yığını seçimi, mimari tasarım ve en iyi uygulamalar konusunda uzman rehberlik.</div>
-<div class="feature-btn"><a href="/en/services/technical-consulting.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="text">Expert guidance on technology stack selection, architectural design, and best practices for your projects.</div>
+<div class="feature-btn"><a href="/en/services/technical-consulting.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -252,8 +252,8 @@
 
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
-<a href="tel:+905347922531" class="ht-btn ht-btn-md">Destek Ekibimiz İle Konuşun</a>
-<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
+<a href="tel:+905347922531" class="ht-btn ht-btn-md">Talk to our Support Team</a>
+<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="ht-btn ht-btn-md ht-btn--outline">Write to us</a>
 </div>
 </div>
 
