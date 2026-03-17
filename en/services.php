@@ -240,7 +240,7 @@
 <div class="content">
 <h5 class="heading">Technical Consulting</h5>
 <div class="text">Projeleriniz için teknoloji yığını seçimi, mimari tasarım ve en iyi uygulamalar konusunda uzman rehberlik.</div>
-<div class="feature-btn"><a href="/en/services/teknik-danismanlik.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/technical-consulting.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>

@@ -44,7 +44,7 @@
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/api-gelistirme.php" class="hover-style-link">API Development</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Server Security and Maintenance</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/yazilim-performans-optimizasyonu.php" class="hover-style-link">Software Performance Optimization</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/teknik-danismanlik.php" class="hover-style-link">Technical Consulting</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/technical-consulting.php" class="hover-style-link">Technical Consulting</a></li>
 </ul>
 </div>
 
