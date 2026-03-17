@@ -2,9 +2,9 @@
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>B2B ve B2C Çözümleri | Dijital İş Platformları ve Entegrasyon Servicesi</title>
-<meta name="description" content="B2B ve B2C çözümleri ile işletmenizi dijital dünyada büyütün. Kurumsal yazılım, e-ticaret ve entegrasyon sistemleri ile iş süreçlerinizi optimize edin.">
-<meta name="keywords" content="B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu">
+<title> B2B and B2C Solutions | Digital Business Platforms and Integration Services</title>
+<meta name="description" content="Grow your business in the digital world with B2B and B2C solutions. Optimize your business processes with enterprise software, e-commerce, and integration systems.">
+<meta name="keywords" content="B2B solutions, B2C solutions, digital commerce platform, e-commerce software, B2B e-commerce system, B2C sales platform">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "B2B ve B2C Çözümleri ile Dijital Ticaret",
- "description": "B2B ve B2C çözümleri sayesinde işletmelerin dijital satış süreçlerini geliştirmesi ve müşteri deneyimini artırması hakkında bilgiler.",
+ "headline": "Digital Commerce with B2B and B2C Solutions",
+ "description": "Information on how businesses can improve their digital sales processes and enhance customer experience through B2B and B2C solutions.",
  "author": {
  "@type": "Organization",
  "name": "Digital Commerce Solutions"
@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-cozumleri.php"
+ "@id": "https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions.php"
  }
 }
 </script>
@@ -35,31 +35,31 @@
  "@type": "FAQPage",
  "mainEntity": [{
  "@type": "Question",
- "name": "B2B çözümleri nedir?",
+ "name": "What are B2B solutions?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "B2B çözümleri, işletmelerin diğer işletmelerle dijital ortamda ticaret yapmasını sağlayan yazılım ve platform çözümleridir."
+ "text": "B2B solutions are software and platform solutions that enable businesses to conduct trade with other businesses in a digital environment.."
  }
  },{
  "@type": "Question",
- "name": "B2C çözümleri nedir?",
+ "name": "What are B2C solutions?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "B2C çözümleri, işletmelerin ürün veya Servicesini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır."
+ "text": "B2C solutions are e-commerce and digital sales platforms that enable businesses to sell their products or services directly to end users."
  }
  },{
  "@type": "Question",
- "name": "B2B ve B2C sistemleri arasındaki fark nedir?",
+ "name": "What is the difference between B2B and B2C systems?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "B2B sistemleri işletmeler arası ticareti kapsarken B2C sistemleri doğrudan tüketicilere satış yapılmasını sağlar."
+ "text": "B2B systems encompass trade between businesses, while B2C systems enable direct sales to consumers."
  }
  },{
  "@type": "Question",
- "name": "B2B ve B2C yazılımları neden önemlidir?",
+ "name": "Why are B2B and B2C software important?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri deneyimini artırır ve işletmelerin daha geniş pazarlara ulaşmasını sağlar."
+ "text": "These software solutions digitize sales processes, enhance customer experience, and enable businesses to reach wider markets."
  }
  }]
 }
@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">B2B ve B2C Çözümleri</h1>
+<h1 class="mb-15 text-white">B2B and B2C Solutions</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -95,7 +95,7 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Modern <span class="text-color-primary"> B2B & B2C <br> Çözümleri</span></h3>
+<h3 class="heading mt-30">Modern <span class="text-color-primary"> B2B & B2C <br> Solutions</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
