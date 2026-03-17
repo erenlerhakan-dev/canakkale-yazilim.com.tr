@@ -41,7 +41,7 @@
 <ul class="footer-widget__list">
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/ozel-yazilim-gelistirme.php" class="hover-style-link">Custom Software Development</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/b2b-ve-b2c-cozumleri.php" class="hover-style-link">B2B & B2C Solutions</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/api-gelistirme.php" class="hover-style-link">API Development</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/api-development.php" class="hover-style-link">API Development</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Server Security and Maintenance</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/yazilim-performans-optimizasyonu.php" class="hover-style-link">Software Performance Optimization</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/services/technical-consulting.php" class="hover-style-link">Technical Consulting</a></li>

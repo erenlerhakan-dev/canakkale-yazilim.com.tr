@@ -145,7 +145,7 @@
 <div class="content">
 <h5 class="heading">API Development</h5>
 <div class="text">Farklı sistemler ve uygulamalar arasında sorunsuz entegrasyon sağlayan RESTful API'ler ve mikroservisler.</div>
-<div class="feature-btn"><a href="/en/services/api-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/api-development.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
