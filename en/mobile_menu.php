@@ -40,7 +40,7 @@
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/mobil-uygulamalar.php"><span>Mobile Applications</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/rezervasyon-sistemleri.php"><span>Reservation Systems</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/ozel-yazilim-gelistirme.php"><span>Custom Software Development</span></a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/en/services/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Solutions</span></a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/en/services/b2b-b2c-solutions.php"><span>B2B & B2C Solutions</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/api-development.php"><span>API Development</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/sunucu-guvenligi-ve-bakimi.php"><span>Server Security and Maintenance</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/yazilim-performans-optimizasyonu.php"><span>Software Performance Optimization</span></a></li>

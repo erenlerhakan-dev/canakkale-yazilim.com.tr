@@ -130,7 +130,7 @@
 <div class="content">
 <h5 class="heading">B2B & B2C Solutions</h5>
 <div class="text">Gelişmiş özelliklerle işletmeden işletmeye ve işletmeden tüketiciye işlemler için özel platformlar.</div>
-<div class="feature-btn"><a href="/en/services/b2b-ve-b2c-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/b2b-b2c-solutions.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
